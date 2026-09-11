@@ -55,11 +55,11 @@ index=main sourcetype="WinEventLog:Security" EventCode=4625 Account_Name="admin"
 
 **Biểu đồ số lần đăng nhập thất bại theo thời gian:**
 
-![Timechart brute-force](images/timechart-bruteforce.png)
+![Timechart brute-force](../images/timechart-bruteforce.png)
 
 **Chi tiết một sự kiện Event ID 4625:**
 
-![Raw event 4625](images/raw-event-4625.png)
+![Raw event 4625](../images/raw-event-4625.png)
 
 ## 7. Đánh giá mức độ nghiêm trọng (Severity)
 
