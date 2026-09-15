@@ -11,3 +11,4 @@ quy trình phân tích thật.
 
 ## Cases đã thực hiện
 - [Brute-force RDP Detection](reports/brute-force-rdp-detection.md)
+- [Port Scan Detection](reports/port-scan-detection.md)
